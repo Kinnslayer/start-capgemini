@@ -1,0 +1,29 @@
+html{
+    color: #FFFFFF;
+    background-color:#000;
+    background-image: url("vega-paspalho.jpeg");
+    background-repeat:no-repeat;
+    background-position: top center;
+    font-family: serif;
+    font-size:1.5rem; 
+}
+main p{
+    text-indent: 2rem;
+    text-align: right;
+}
+h1,h2,h3{
+    text-align: center;
+}
+
+h2#titulo-primeira-aula{
+    letter-spacing: 1em;
+}
+
+p{
+    text-transform: capitalize;
+}
+
+a{
+    color: aqua;
+    cursor: pointer;
+}
